@@ -1,8 +1,8 @@
 <?php
 // Configurazione del database
-$db_host = 'localhost';
+$db_host = '34.66.180.160';
 $db_name = 'image_catalog';
-$db_user = 'root';
+$db_user = 'appmod-phpapp-user';
 $db_pass = 'veryverystrongpassword';
 
 try {
